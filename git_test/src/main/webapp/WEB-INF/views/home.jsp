@@ -12,7 +12,7 @@
 <P>  The time on the server is ${serverTime}. </P>
 
 <!-- 메인 페이지 -->
-<h3>반가워요!</h3>
+<h4>hi!</h4>
 
 </body>
 </html>
